@@ -1312,7 +1312,7 @@ figure:after {
 	color:  #c7b299;
 }
 
-@media all and (max-width: 1366px) {
+@media all and (min-width: 1281px) {
 	.logo {
         left: 176px;
 	}
